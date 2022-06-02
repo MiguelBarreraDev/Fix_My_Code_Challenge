@@ -2,7 +2,7 @@
 """This module provide a Class to instance geometry objects"""
 
 
-class square():
+class Square():
     """Provide methods fto calculate of the are and perimiter"""
     width = 0
     height = 0
